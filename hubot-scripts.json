@@ -1,1 +1,15 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee", "tweet.coffee", "shipit.coffee",
+
+  "ackbar.coffee",
+  "adult.coffee",
+  "alot.coffee",
+  "archer.coffee",
+  "bees.coffee",
+  "buscemi.coffee",
+  "chat.coffee",
+  "cheer.coffee",
+  "clark.coffee",
+  "cleverbot.coffee",
+  "which-do-you-prefer.coffee"
+]
