@@ -1,6 +1,4 @@
 [
-  "redis-brain.coffee", "tweet.coffee", "shipit.coffee",
-
   "ackbar.coffee",
   "adult.coffee",
   "alot.coffee",
